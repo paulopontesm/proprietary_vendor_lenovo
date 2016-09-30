@@ -43,6 +43,11 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom_row/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/lenovo/kingdom_row/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/lenovo/kingdom_row/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/lenovo/kingdom_row/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/lenovo/kingdom_row/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/lenovo/kingdom_row/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/lenovo/kingdom_row/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/lenovo/kingdom_row/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/lenovo/kingdom_row/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lenovo/kingdom_row/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/lenovo/kingdom_row/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
