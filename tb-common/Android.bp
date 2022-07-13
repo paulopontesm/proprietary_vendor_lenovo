@@ -126,7 +126,8 @@ android_app_import {
 android_app_import {
 	name: "TimeService",
 	owner: "lenovo",
-	apk: "proprietary/vendor/app/TimeService/TimeService.apk",
+	apk: "proprietary/vendor/app/TimeService/TimeService.apk",	
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
